@@ -1,7 +1,7 @@
 # Firewall.py
 Firewall/ trackers tracker
 1. firewall.py
-   1. Must have Pythong
+   1. Must have Python
    2. import socket
       import threading
       import time
